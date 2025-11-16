@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kenangan Surawung</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+
+  <header>
+    <h1 id="playlistTitle"></h1>
+    <a href="index.html" style="color:white;text-decoration:underline;">← Kembali</a>
+  </header>
+
+  <main>
+    <section>
+      <h2>Foto Kenangan</h2>
+      <div id="fotoContainer" class="cards"></div>
+    </section>
+
+    <section>
+      <h2>Video Kenangan</h2>
+      <div id="videoContainer" class="cards"></div>
+    </section>
+  </main>
+
+</div>
+
+<!-- SCRIPT BAGIAN AKHIR -->
+<script>
+const params = new URLSearchParams(window.location.search);
+const playlistName = params.get('name');
+
+// ubah judul sesuai nama playlist
+document.getElementById('playlistTitle').textContent = playlistName;
+
+// ambil file json sesuai nama playlist (contoh: papandayan.json)
+fetch(`data/${playlistName.toLowerCase()}.json`)
+  .then(res => {
+    if (!res.ok) throw new Error('File JSON tidak ditemukan');
+    return res.json();
+  })
+  .then(data => {
+    const videoContainer = document.getElementById('videoContainer');
+    const photoSection = document.getElementById('fotoContainer');
+
+    // Tambahkan Foto
+    if (data.photos && data.photos.length > 0) {
+      data.photos.forEach(photo => {
+        const img = document.createElement('img');
+        img.src = photo.src;
+        img.alt = photo.alt || '';
+        img.classList.add('photo-item');
+        photoSection.appendChild(img);
+      });
+    } else {
+      photoSection.innerHTML = "<p>Tidak ada foto kenangan.</p>";
+    }
+
+    // Tambahkan Video
+    if (data.videos && data.videos.length > 0) {
+      data.videos.forEach(video => {
+        const vid = document.createElement('video');
+        vid.controls = true;
+        vid.width = 320;
+        vid.style.display = "block";
+        vid.style.margin = "10px auto";
+        vid.style.borderRadius = "10px";
+
+        const src = document.createElement('source');
+        src.src = video.src;
+        src.type = 'video/mp4';
+        vid.appendChild(src);
+        videoContainer.appendChild(vid);
+      });
+    } else {
+      videoContainer.innerHTML = "<p>Tidak ada video kenangan.</p>";
+    }
+  })
+  .catch(err => {
+    console.error('Gagal memuat data:', err);
+    document.getElementById('fotoContainer').innerHTML = "<p>Data kenangan tidak ditemukan.</p>";
+  });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ARSIP SURAWUNG</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+
+  <header>
+    <h1>ARCHIVE SURAWUNG</h1>
+    <p>Susah senang ngariung 📸</p>
+  </header>
+
+  <main>
+    <section id="playlistContainer" class="playlist">
+      <h2 class="bagianplaylist">ALBUM</h2>
+      <div class="cards" id="playlistCards"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2020 SURAWUNG</p>
+  </footer>
+
+</div>
+
+
+
+<script src="data/playlist.js"></script>
+<script>
+  // ambil kontainer untuk daftar playlist
+  const playlistContainer = document.getElementById('playlistCards');
+
+  // render setiap item dari playlistData (dari playlist.js)
+  playlistData.forEach(item => {
+    const card = document.createElement('div');
+    card.classList.add('card');
+    card.innerHTML = `
+      <h3>${item.name}</h3>
+      <p>${item.description}</p>
+    `;
+
+    // klik kartu → menuju ke halaman playlist.html
+    card.addEventListener('click', () => {
+      window.location.href = `playlist.html?name=${encodeURIComponent(item.name)}`;
+    });
+
+    playlistContainer.appendChild(card);
+  });
+</script>
+
+</body>
+</html>
