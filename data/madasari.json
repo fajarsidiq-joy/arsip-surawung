@@ -1,0 +1,655 @@
+{
+  "name": "Madasari",
+  "description": "Kenangan seru di Madasari",
+  "photos": [
+    {
+      "src": "kenangan/madasari/00b871eb-636c-4aa2-a01d-0d87d66d8975.jpg",
+      "alt": "00b871eb-636c-4aa2-a01d-0d87d66d8975.jpg"
+    },
+    {
+      "src": "kenangan/madasari/90ea86c4-96ed-4536-a688-d7ffcfa76107.jpg",
+      "alt": "90ea86c4-96ed-4536-a688-d7ffcfa76107.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5741.jpg",
+      "alt": "IMG_5741.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5742.jpg",
+      "alt": "IMG_5742.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5744.jpg",
+      "alt": "IMG_5744.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5745.jpg",
+      "alt": "IMG_5745.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5746.jpg",
+      "alt": "IMG_5746.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5747.jpg",
+      "alt": "IMG_5747.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5748.jpg",
+      "alt": "IMG_5748.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5749.jpg",
+      "alt": "IMG_5749.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5750.jpg",
+      "alt": "IMG_5750.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5751.jpg",
+      "alt": "IMG_5751.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5752.jpg",
+      "alt": "IMG_5752.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5753.jpg",
+      "alt": "IMG_5753.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5762.jpg",
+      "alt": "IMG_5762.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5768.JPG",
+      "alt": "IMG_5768.JPG"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5769.JPG",
+      "alt": "IMG_5769.JPG"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5771.jpg",
+      "alt": "IMG_5771.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5772.jpg",
+      "alt": "IMG_5772.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5782.jpg",
+      "alt": "IMG_5782.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5783.jpg",
+      "alt": "IMG_5783.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5784.jpg",
+      "alt": "IMG_5784.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5785.jpg",
+      "alt": "IMG_5785.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5786.jpg",
+      "alt": "IMG_5786.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5787.jpg",
+      "alt": "IMG_5787.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5789.jpg",
+      "alt": "IMG_5789.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5790.jpg",
+      "alt": "IMG_5790.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5794.jpg",
+      "alt": "IMG_5794.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5795.jpg",
+      "alt": "IMG_5795.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5796.jpg",
+      "alt": "IMG_5796.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5797.jpg",
+      "alt": "IMG_5797.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5798.jpg",
+      "alt": "IMG_5798.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5799.jpg",
+      "alt": "IMG_5799.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5800.jpg",
+      "alt": "IMG_5800.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5801.jpg",
+      "alt": "IMG_5801.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5802.jpg",
+      "alt": "IMG_5802.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5803.jpg",
+      "alt": "IMG_5803.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5813.jpg",
+      "alt": "IMG_5813.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5814.jpg",
+      "alt": "IMG_5814.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5815.jpg",
+      "alt": "IMG_5815.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5817.jpg",
+      "alt": "IMG_5817.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5818.jpg",
+      "alt": "IMG_5818.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5822.jpg",
+      "alt": "IMG_5822.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5824.jpg",
+      "alt": "IMG_5824.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5828.jpg",
+      "alt": "IMG_5828.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5829.jpg",
+      "alt": "IMG_5829.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5830.jpg",
+      "alt": "IMG_5830.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5833.jpg",
+      "alt": "IMG_5833.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5834.jpg",
+      "alt": "IMG_5834.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5835.jpg",
+      "alt": "IMG_5835.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5836.jpg",
+      "alt": "IMG_5836.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5837.jpg",
+      "alt": "IMG_5837.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5838.jpg",
+      "alt": "IMG_5838.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5839.jpg",
+      "alt": "IMG_5839.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5840.jpg",
+      "alt": "IMG_5840.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5850.jpg",
+      "alt": "IMG_5850.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5851.jpg",
+      "alt": "IMG_5851.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5860.jpg",
+      "alt": "IMG_5860.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5865.jpg",
+      "alt": "IMG_5865.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5866.jpg",
+      "alt": "IMG_5866.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5867.jpg",
+      "alt": "IMG_5867.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5868.jpg",
+      "alt": "IMG_5868.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5869.jpg",
+      "alt": "IMG_5869.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5891.jpg",
+      "alt": "IMG_5891.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5892.jpg",
+      "alt": "IMG_5892.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5893.jpg",
+      "alt": "IMG_5893.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5894.jpg",
+      "alt": "IMG_5894.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5895.jpg",
+      "alt": "IMG_5895.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5896.jpg",
+      "alt": "IMG_5896.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5905.jpg",
+      "alt": "IMG_5905.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5906.jpg",
+      "alt": "IMG_5906.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5908.JPG",
+      "alt": "IMG_5908.JPG"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5929.jpg",
+      "alt": "IMG_5929.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5930.jpg",
+      "alt": "IMG_5930.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5936.jpg",
+      "alt": "IMG_5936.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5937.jpg",
+      "alt": "IMG_5937.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5938.jpg",
+      "alt": "IMG_5938.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5951.jpg",
+      "alt": "IMG_5951.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5952.jpg",
+      "alt": "IMG_5952.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5956.jpg",
+      "alt": "IMG_5956.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5957.jpg",
+      "alt": "IMG_5957.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5959.jpg",
+      "alt": "IMG_5959.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5962.jpg",
+      "alt": "IMG_5962.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5965.jpg",
+      "alt": "IMG_5965.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5967.jpg",
+      "alt": "IMG_5967.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5968.jpg",
+      "alt": "IMG_5968.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5969.jpg",
+      "alt": "IMG_5969.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5976.jpg",
+      "alt": "IMG_5976.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5977.jpg",
+      "alt": "IMG_5977.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5978.jpg",
+      "alt": "IMG_5978.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5995.jpg",
+      "alt": "IMG_5995.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5996.jpg",
+      "alt": "IMG_5996.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5997.jpg",
+      "alt": "IMG_5997.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5998.jpg",
+      "alt": "IMG_5998.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_5999.jpg",
+      "alt": "IMG_5999.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_6001.jpg",
+      "alt": "IMG_6001.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_6002.jpg",
+      "alt": "IMG_6002.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_6003.jpg",
+      "alt": "IMG_6003.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_6004.jpg",
+      "alt": "IMG_6004.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_6005.jpg",
+      "alt": "IMG_6005.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_6006.jpg",
+      "alt": "IMG_6006.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_6007.jpg",
+      "alt": "IMG_6007.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_6008.jpg",
+      "alt": "IMG_6008.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_6009.jpg",
+      "alt": "IMG_6009.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_6010.jpg",
+      "alt": "IMG_6010.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_6023.jpg",
+      "alt": "IMG_6023.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_6024.jpg",
+      "alt": "IMG_6024.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_6047.jpg",
+      "alt": "IMG_6047.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_6050.jpg",
+      "alt": "IMG_6050.jpg"
+    },
+    {
+      "src": "kenangan/madasari/IMG_6057.PNG",
+      "alt": "IMG_6057.PNG"
+    }
+  ],
+  "videos": [
+    {
+      "src": "kenangan/madasari/Copy 02E96b83-5Fcd-44Fa-B25a-9Cf7801b83a1.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5743.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5754.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5758.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5759.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5760.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5761.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5763.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5764.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5765.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5766.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5767.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5770.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5775.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5776.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5777.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5778.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5779.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5780.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5781.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5804.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5805.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5806.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5807.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5808.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5809.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5810.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5811.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5819.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5820.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5821.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5823.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5825.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5826.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5827.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5832.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5841.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5844.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5877.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5878.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5882.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5883.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5884.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5909.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5914.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5915.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5917.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5918.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5919.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5922.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5925.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5926.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5931.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5932.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5933.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5934.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5935.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5949.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5950.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 5958.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 6026.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 6028.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 9762.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 9763.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 9764.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 9765.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 9767.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 9768.mp4"
+    },
+    {
+      "src": "kenangan/madasari/Img 9770.mp4"
+    }
+  ]
+}
